@@ -159,22 +159,7 @@ For interactive visual sandboxes, live crash recovery demonstrations, and detail
 
 ---
 
-## 6. Status & Roadmap
-
-DurgX is currently at **Architecture Specification v0.1 (Pre-Alpha)**. 
-
-- [x] **Phase 0:** Microkernel Specifications, Capability Model Formalization
-- [x] **Phase 1:** Limine Boot, HHDM Setup, Serial Debugging, Trap Frame ABI
-- [ ] **Phase 2:** Buddy Allocator (PMM) & Permanent Virtual Memory Maps (VMM)
-- [ ] **Phase 3:** Capability Radix Tree & Retype Invocations
-- [ ] **Phase 4:** Lock-Free Ring IPC & Synchronous Rendezvous
-- [ ] **Phase 5:** SMP Bring-up & Work-Stealing Scheduling
-- [ ] **Phase 6:** Ring 3 Driver Supervisor Subsystem & Fault Recovery
-- [ ] **Phase 7:** POSIX Shim Server & Dynamic Linker Integration
-
----
-
-## 7. License & Disclaimers
+## 6. License & Disclaimers
 
 The pre-compiled distributions, technical documentation, and interface specifications are published for research, benchmarking, and security evaluation under the stewardship of **[Galaxyium](https://galaxyium.space)**.
 
